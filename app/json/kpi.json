@@ -1,0 +1,152 @@
+[
+  {
+    "workTotal" : "808081023",
+    "length"    : 10,
+    "item"      : [
+      {
+        "id"          : "000000000001",
+        "username"    : "TW00010",
+        "name"        : "齊齊",
+        "team"        : "1",
+        "ranking"     : "2",
+        "Workload"    : "4235123",
+        "WorkTotal"   : "231232141",
+        "VIPService"  : true,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000002",
+        "username"    : "TW00001",
+        "name"        : "龍龍",
+        "team"        : "3",
+        "ranking"     : "3",
+        "Workload"    : "5236453",
+        "WorkTotal"   : "123412312",
+        "VIPService"  : true,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000003",
+        "username"    : "TW00003",
+        "name"        : "萬萬",
+        "team"        : "2",
+        "ranking"     : "1",
+        "Workload"    : "656621123",
+        "WorkTotal"   : "5244213123",
+        "VIPService"  : false,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000004",
+        "username"    : "TW00009",
+        "name"        : "虎虎",
+        "team"        : "4",
+        "ranking"     : "5",
+        "Workload"    : "56244",
+        "WorkTotal"   : "14567544",
+        "VIPService"  : true,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000005",
+        "username"    : "TW00004",
+        "name"        : "狗狗",
+        "team"        : "4",
+        "ranking"     : "6",
+        "Workload"    : "234745",
+        "WorkTotal"   : "123556732",
+        "VIPService"  : true,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000006",
+        "username"    : "TW00007",
+        "name"        : "發發",
+        "team"        : "1",
+        "ranking"     : "4",
+        "Workload"    : "1234645",
+        "WorkTotal"   : "76123411",
+        "VIPService"  : false,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000007",
+        "username"    : "TW00008",
+        "name"        : "才才",
+        "team"        : "1",
+        "ranking"     : "7",
+        "Workload"    : "12367865",
+        "WorkTotal"   : "918293487",
+        "VIPService"  : true,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000008",
+        "username"    : "TW00011",
+        "name"        : "天天",
+        "team"        : "2",
+        "ranking"     : "10",
+        "Workload"    : "524234",
+        "WorkTotal"   : "123080123",
+        "VIPService"  : false,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000009",
+        "username"    : "TW00006",
+        "name"        : "尼尼",
+        "team"        : "3",
+        "ranking"     : "11",
+        "Workload"    : "1233453",
+        "WorkTotal"   : "12349032",
+        "VIPService"  : false,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000010",
+        "username"    : "TW00012",
+        "name"        : "叉叉",
+        "team"        : "1",
+        "ranking"     : "12",
+        "Workload"    : "1231542",
+        "WorkTotal"   : "24009082",
+        "VIPService"  : false,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000011",
+        "username"    : "TW00002",
+        "name"        : "圈圈",
+        "team"        : "4",
+        "ranking"     : "8",
+        "Workload"    : "1236211",
+        "WorkTotal"   : "37912302",
+        "VIPService"  : true,
+        "startDate"   : "",
+        "endDate"     : ""
+        },
+      {
+        "id"          : "000000000012",
+        "username"    : "TW00005",
+        "name"        : "次次",
+        "team"        : "4",
+        "ranking"     : "9",
+        "Workload"    : "12557324",
+        "WorkTotal"   : "76788781",
+        "VIPService"  : true,
+        "startDate"   : "",
+        "endDate"     : ""
+        }
+    ]
+  }
+]
